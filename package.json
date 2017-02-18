@@ -1,0 +1,9 @@
+{
+  "name": "combistack-tor",
+  "version": "1.0.0",
+  "description": "CombiStack tor tools",
+  "main": "index.js",
+  "repository": "git@github.com:combistack/tor.git",
+  "author": "Nemanja Nedeljković <nemanjan00@gmail.com>",
+  "license": "MIT"
+}
